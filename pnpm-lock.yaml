@@ -8,9 +8,9 @@ dependencies:
   '@astrojs/tailwind':
     specifier: ^4.0.0
     version: 4.0.0(astro@2.8.3)(tailwindcss@3.3.3)
-  '@fontsource/syne-mono':
-    specifier: ^5.0.5
-    version: 5.0.5
+  '@fontsource/inter':
+    specifier: ^5.0.15
+    version: 5.0.15
   astro:
     specifier: ^2.8.3
     version: 2.8.3
@@ -768,8 +768,8 @@ packages:
     dev: false
     optional: true
 
-  /@fontsource/syne-mono@5.0.5:
-    resolution: {integrity: sha512-3tuONkKyCRkg5mIscZd8HKxpXEV3huAGbRSvT+OuIv66a1Zyo5cY8DDTisg3HnfayJxqdkshi01PRhoUXogvqg==}
+  /@fontsource/inter@5.0.15:
+    resolution: {integrity: sha512-/IoWYEXl8lqJEx50JqNPT+bI4VNwxb/bg2oOfvG8PiEsDsmHRFvWBVHlohBNn1+QdBf+KbAjU/gb4vlGOSsVWw==}
     dev: false
 
   /@jridgewell/gen-mapping@0.3.3:
